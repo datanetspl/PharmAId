@@ -1,6 +1,6 @@
-# MedGemmaAI
+# PharmAId
 
-MedGemmaAI is a full-stack medical AI assistant designed to provide insights into patient medications and potential drug interactions. It leverages large language models and a Retrieval-Augmented Generation (RAG) pipeline to deliver accurate and context-aware information.
+PharmAId is a full-stack medical AI assistant designed to provide insights into patient medications and potential drug interactions. It leverages large language models and a Retrieval-Augmented Generation (RAG) pipeline to deliver accurate and context-aware information.
 
 ## Features
 
